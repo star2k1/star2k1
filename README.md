@@ -70,16 +70,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=star2k1&theme=midnight-purple&custom_title=Rannar's+GitHub+Stats&show-icons=true&hide_border=true" align="center" /></section></div>
 
 <div align="center">
-  <h1> 🐍 </h1> 
+  <summary> <h1> 🐍 </h1> </summary>
 </div>
 
-###
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/star2k1/star2k1/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/star2k1/star2k1/output/snake.svg" />
-</picture>
-
-###
+<img src="https://raw.githubusercontent.com/star2k1/star2k1/output/snake.svg" alt="Snake animation" />
 
 <br/>  
