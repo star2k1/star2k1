@@ -75,7 +75,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/star2k1/star2k1/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/star2k1/star2k1/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/star2k1/star2k1/output/snake.svg" />
+</picture>
 
 ###
 
