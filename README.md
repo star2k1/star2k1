@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  I'm 23 years old, currently studying at uni and working as a dev part time
+  I'm currently studying at uni and working as a full-stack dev
 </div><br>
 
 <div align="center">
