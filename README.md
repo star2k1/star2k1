@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 <div align="center">
   <h1 style="font-weight: 900;">Hi, 👋 I'm Rannar</h1>
 </div>
@@ -14,23 +16,29 @@
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 </div>
-
 <div align="center">
-  <summary>
-    <h1> ℹ </h1>
-  </summary>
+  <div id="toc">
+    <ul style="list-style: none">
+      <summary>
+        <h1> ⓘ </h1>
+      </summary>
+    </ul>
+  </div>
+  <div style="display: flex; justify-content: center;">
   <table style="border-collapse: collapse; width: 100%;">
+    <thead>
+      <th align="right" style="padding: 8px;">Education</th>
+      <th align="left" style="padding: 8px;">Work</th>
+    </thead>
+    <tbody>
     <tr>
-      <th style="border: none; padding: 8px;">🏫 Education</th>
-      <th style="border: none; padding: 8px;">💻 Work</th>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 8px;">
-        🎓 Bachelor of Science in Engineering, <b><a href="https://www.taltech.ee/">TalTech</a></b><br>
-        🎓 Currently pursuing a Master's in Computer Science, <b><a href="https://www.taltech.ee/">TalTech</a></b>
+      <td align="right" style="padding: 8px;">
+        BSE @ <b><a href="https://www.taltech.ee/">TalTech</a> 🎓</b><br>
+        Currently pursuing MSc @ <b><a href="https://www.taltech.ee/">TalTech</a> 🎓</b>
       </td>
-      <td style="border: none; padding: 8px;">👨‍💻 Junior Developer at <b><a href="https://www.shepherdcmms.com">Shepherd</a></b></td>
+      <td align="left" style="padding: 8px;">👨‍💻 Developer at <b><a href="https://www.shepherdcmms.com">Shepherd</a> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
     </tr>
+  </tbody>
   </table><br/>
   
 <div align="center">
@@ -67,12 +75,14 @@
 <h2> Some Stats </h2> 
 </div>
 <div align="center"><section markdown="1" style="display: flex;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star2k1&theme=midnight-purple&layout=compact&langs_count=5&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api?username=star2k1&theme=midnight-purple&custom_title=Rannar's+GitHub+Stats&show-icons=true&hide_border=true" align="center" /></section></div>
-
-<div align="center">
-  <summary> <h1> 🐍 </h1> </summary>
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=star2k1&theme=midnight-purple&custom_title=star2k1's+GitHub+Stats&show-icons=true&hide_border=true" align="center" /></section></div>
+<div align="center" id="toc">
+    <ul style="list-style: none">
+      <summary>
+        <h1> 🐍 </h1>
+      </summary>
+    </ul>
+  </div>
 <img src="https://raw.githubusercontent.com/star2k1/star2k1/output/snake.svg" alt="Snake animation" />
 
-<br/>  
+<br/>
