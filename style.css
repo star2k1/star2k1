@@ -1,5 +1,8 @@
 <style>
-  .no-bullets ul, ol {
-    list-style-type: none;
+  summary {
+    list-style: none;
+  }
+  details {
+    list-style: none;
   }
 </style>
