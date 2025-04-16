@@ -78,9 +78,13 @@
 </div>
 <div align="center"><section markdown="1" style="display: flex;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star2k1&theme=midnight-purple&layout=compact&langs_count=5&hide_border=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api?username=star2k1&theme=midnight-purple&custom_title=star2k1's+GitHub+Stats&show-icons=true&hide_border=true" align="center" /></section></div>
-<div align="center"> 
+<div id="toc">
+    <ul style="list-style: none">
+      <summary>
         <h1> 🐍 </h1>
-<br>
+      </summary>
+    </ul>
+  </div>
 <img src="https://raw.githubusercontent.com/star2k1/star2k1/output/snake.svg" alt="Snake animation" />
 </div>
 <br/>
