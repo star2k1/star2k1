@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  I'm currently studying at uni and working as a full-stack dev
+  Crafting user-friendly & responsive experiences since '20
 </div><br>
 
 <div align="center">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/rannar-randm2e" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin-white&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 </div>
 <div align="center">
@@ -34,9 +34,10 @@
     <tr>
       <td align="right" style="padding: 8px;">
         BSE @ <b><a href="https://www.taltech.ee/">TalTech</a> 🎓</b><br>
-        Currently pursuing MSc @ <b><a href="https://www.taltech.ee/">TalTech</a> 🎓</b>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Currently pursuing MSc @ <b><a href="https://www.taltech.ee/">TalTech</a> 🎓</b>
       </td>
-      <td align="left" style="padding: 8px;">👨‍💻 Developer at <b><a href="https://www.shepherdcmms.com">Shepherd</a> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+      <td align="left" style="padding: 8px;">👨‍💻 NetSuite/Angular Developer at <b><a href="https://www.shepherdcmms.com">Shepherd</a></b><br>
+      🍦 CEO of Bing Chilling</td>
     </tr>
   </tbody>
   </table><br/>
@@ -68,6 +69,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
   <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
+  <a href="https://wordpress.org" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="Wordpress" height="50" /></a> 
 </div>  
 <br/>  
 
@@ -76,13 +78,9 @@
 </div>
 <div align="center"><section markdown="1" style="display: flex;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=star2k1&theme=midnight-purple&layout=compact&langs_count=5&hide_border=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api?username=star2k1&theme=midnight-purple&custom_title=star2k1's+GitHub+Stats&show-icons=true&hide_border=true" align="center" /></section></div>
-<div align="center" id="toc">
-    <ul style="list-style: none">
-      <summary>
+<div align="center"> 
         <h1> 🐍 </h1>
-      </summary>
-    </ul>
-  </div>
+<br>
 <img src="https://raw.githubusercontent.com/star2k1/star2k1/output/snake.svg" alt="Snake animation" />
-
+</div>
 <br/>
